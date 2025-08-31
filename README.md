@@ -13,6 +13,11 @@ on the dotfiles repository.
 Note that a script is not currently guaranteed to work (e.g., there may be an
 API change).
 
+The git repository is available online on both
+[GitLab](https://gitlab.com/ema-pe/archived-scripts) and
+[GitHub](https://github.com/ema-pe/archived-scripts). However, GitHub is a
+read-only mirror of GitLab.
+
 ## License
 
 Copyright (c) 2025 Emanuele Petriglia
