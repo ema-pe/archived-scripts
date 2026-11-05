@@ -20,7 +20,7 @@ read-only mirror of GitLab.
 
 ## License
 
-Copyright (c) 2025 Emanuele Petriglia
+Copyright (c) 2025-2026 Emanuele Petriglia
 
 All right reserved. Unless otherwise noted in the header of the script file, all
 scripts are licensed under the MIT license. See [`LICENSE`](LICENSE) file for
